@@ -1,6 +1,6 @@
 # 🚀 Curso de Docker  
 
-Este repositório contém meus estudos e práticas do curso de Docker, parte do meu desafio de **100 dias de programação**. Aqui você encontrará exemplos, comandos e projetos utilizados ao longo do aprendizado.  
+Este repositório contém meus estudos e práticas do curso de Docke. Aqui você encontrará exemplos, comandos e projetos utilizados ao longo do aprendizado.  
 
 ## 📌 Conteúdo  
 
